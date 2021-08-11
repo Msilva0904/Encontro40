@@ -1,0 +1,5 @@
+package Entregas.EntregasRepositorio;
+
+public interface MotoristaRepositorio {
+
+}

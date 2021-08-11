@@ -1,0 +1,14 @@
+package Entregas.Entregas;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class EntregasApplication2 {
+
+	public static void main(String[] args) {
+		System.out.print("Olá Motorista");
+		SpringApplication.run(EntregasApplication2.class, args);
+	}
+
+}
